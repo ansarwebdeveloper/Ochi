@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/ochi/static/css/main.481fce64.css",
+    "main.js": "/ochi/static/js/main.920afae0.js",
+    "static/js/488.ff7c534e.chunk.js": "/ochi/static/js/488.ff7c534e.chunk.js",
+    "static/media/NeueMontreal-Regular.ttf": "/ochi/static/media/NeueMontreal-Regular.7fb4297f5919edf1eaff.ttf",
+    "static/media/FoundersGrotesk-Semibold.ttf": "/ochi/static/media/FoundersGrotesk-Semibold.5438be1bbcbdb7f422b4.ttf",
+    "index.html": "/ochi/index.html",
+    "main.481fce64.css.map": "/ochi/static/css/main.481fce64.css.map",
+    "main.920afae0.js.map": "/ochi/static/js/main.920afae0.js.map",
+    "488.ff7c534e.chunk.js.map": "/ochi/static/js/488.ff7c534e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.481fce64.css",
+    "static/js/main.920afae0.js"
+  ]
+}
