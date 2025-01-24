@@ -1,0 +1,39 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family:'Mon' ;
+    src: url(./Font/NeueMontreal-Regular.ttf);
+}
+
+@font-face {
+    font-family: 'Grot';
+    src: url(./Font/FoundersGrotesk-Semibold.ttf);
+}
+
+
+
+@media (max-width:768px) {
+    #nav{
+        padding: 22px 30px;
+    }
+
+    .links{
+        display: none;
+    }
+    #textstr{
+        padding: 0px 30px;
+        margin-top: 20vw;
+    }
+    .lbtm{
+        margin-top: 10vw;
+        flex-direction: column;
+        gap: 2vw;        
+        padding-bottom: 10px;        
+        align-items: start;
+    }
+
+
+
+}
